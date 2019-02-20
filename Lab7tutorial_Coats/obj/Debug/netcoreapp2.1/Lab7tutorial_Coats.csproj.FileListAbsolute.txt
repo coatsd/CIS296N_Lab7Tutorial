@@ -1,0 +1,14 @@
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\bin\Debug\netcoreapp2.1\Lab7tutorial_Coats.deps.json
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\bin\Debug\netcoreapp2.1\Lab7tutorial_Coats.runtimeconfig.json
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\bin\Debug\netcoreapp2.1\Lab7tutorial_Coats.runtimeconfig.dev.json
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\bin\Debug\netcoreapp2.1\Lab7tutorial_Coats.dll
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\bin\Debug\netcoreapp2.1\Lab7tutorial_Coats.pdb
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\obj\Debug\netcoreapp2.1\Lab7tutorial_Coats.csprojAssemblyReference.cache
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\obj\Debug\netcoreapp2.1\Lab7tutorial_Coats.csproj.CoreCompileInputs.cache
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\obj\Debug\netcoreapp2.1\Lab7tutorial_Coats.RazorAssemblyInfo.cache
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\obj\Debug\netcoreapp2.1\Lab7tutorial_Coats.RazorAssemblyInfo.cs
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\obj\Debug\netcoreapp2.1\Lab7tutorial_Coats.AssemblyInfoInputs.cache
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\obj\Debug\netcoreapp2.1\Lab7tutorial_Coats.AssemblyInfo.cs
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\obj\Debug\netcoreapp2.1\Lab7tutorial_Coats.RazorTargetAssemblyInfo.cache
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\obj\Debug\netcoreapp2.1\Lab7tutorial_Coats.dll
+C:\Users\You can run in this\source\repos\Lab7tutorial_Coats\Lab7tutorial_Coats\obj\Debug\netcoreapp2.1\Lab7tutorial_Coats.pdb
